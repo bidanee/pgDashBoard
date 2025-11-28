@@ -12,6 +12,9 @@ npm install
 
 # 개발 서버 실행
 npm run dev
+
+# .env 파일
+VITE_API_URL=https://recruit.paysbypays.com/api/v1
 ```
 
 ---
